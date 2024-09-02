@@ -1,0 +1,23 @@
+[
+    {
+        "titulo": "Comprar pan",
+        "descripcion": "ir a comprar pan a la esquina",
+        "fecha_vencimiento": "2024-09-01",
+        "etiqueta": "importante",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Comprar bebida",
+        "descripcion": "ir a comprar bebida",
+        "fecha_vencimiento": "2024-09-03",
+        "etiqueta": "Urgente",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "Diego Probaste el avance?",
+        "descripcion": "verificando si Diego probo este avance",
+        "fecha_vencimiento": "2024-09-04",
+        "etiqueta": "Urgente",
+        "estado": "pendiente"
+    }
+]

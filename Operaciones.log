@@ -1,0 +1,24 @@
+2024-09-02 11:25:06,555 INFO: Autenticación exitosa para el usuario: Diego
+2024-09-02 11:25:59,348 INFO: Tarea 'Comprar bebida' agregada correctamente.
+2024-09-02 11:26:13,832 INFO: Tarea 'Comprar bebida' eliminada correctamente.
+2024-09-02 11:26:31,564 INFO: Sesión cerrada
+2024-09-02 11:26:37,907 WARNING: Fallo de autenticación para el usuario: Rodrigo
+2024-09-02 11:36:28,913 INFO: Usuario registrado: Rodrigo
+2024-09-02 11:36:36,370 INFO: Autenticacion exitosa para el usuario: Rodrigo
+2024-09-02 11:37:13,085 INFO: Tarea creada: Comprar bebida
+2024-09-02 11:38:06,676 INFO: Estado de la tarea ha cambiado: Comprar bebida a en progreso
+2024-09-02 11:41:01,151 INFO: Autenticacion exitosa para el usuario: Diego
+2024-09-02 11:41:50,921 INFO: Tarea creada: Diego Probaste el avance?
+2024-09-02 11:42:23,503 INFO: Autenticacion exitosa para el usuario: Rodrigo
+2024-09-02 11:42:35,185 WARNING: Fallo de autenticacion para el usuario: Juan
+2024-09-02 11:42:40,875 INFO: Autenticacion exitosa para el usuario: Diego
+2024-09-02 13:35:08,297 INFO: Usuario registrado: Juanito
+2024-09-02 13:35:15,630 INFO: Autenticacion exitosa para el usuario: Juanito
+2024-09-02 13:35:30,933 INFO: Autenticacion exitosa para el usuario: Juanito
+2024-09-02 14:22:39,890 INFO: Usuario registrado: DiegoM
+2024-09-02 14:23:02,910 WARNING: Fallo de autenticacion para el usuario: DiegoC
+2024-09-02 14:23:09,023 WARNING: Intento de registro con nombre de usuario ya existente a: DiegoM
+2024-09-02 14:23:14,403 INFO: Autenticacion exitosa para el usuario: DiegoM
+2024-09-02 14:23:26,320 INFO: Autenticacion exitosa para el usuario: Rodrigo
+2024-09-02 14:23:53,141 INFO: Estado de la tarea ha cambiado: Comprar pan a pendiente
+2024-09-02 19:49:34,988 INFO: Autenticacion exitosa para el usuario: Rodrigo

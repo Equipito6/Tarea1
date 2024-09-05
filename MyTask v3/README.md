@@ -1,4 +1,0 @@
-- En esta tercera entrega se realizaron mejoras a las tareas aplicando una nueva lista para las tareas completadas
-- Aquellas tareas completadas tendran su propio apartado para poder visualizarlas
-- Ahora la funcion de filtro dentro del codigo tambien se podran visualizar las tareas completadas con el filtro aplicado segun el usuario
-- Ahora el usuario puede aplicar el filtro por fecha de vencimiento

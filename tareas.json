@@ -1,0 +1,9 @@
+[
+    {
+        "titulo": "Comprar pan",
+        "descripcion": "ir a comprar pan a la esquina",
+        "fecha_vencimiento": "2024-09-01",
+        "etiqueta": "importante",
+        "estado": "pendiente"
+    }
+]

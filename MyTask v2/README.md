@@ -1,0 +1,2 @@
+- En esta segunda version se aplicaron ciertos cambios a la estructura y orden de las funciones para dejarlas en archivos apartes para la optimizacion
+- Se integro una nueva funcionalidad de generar un filtro de busqueda para el usuario, para que pueda buscar por titulo o por etiquetas

@@ -1,0 +1,2 @@
+- Aqui se encuentra el codigo esqueleto de la tarea 1 de pruebas de software con todas las ideas propuestas por el equipo
+- Aquel codigo sera de utilidad para poder trabajar en base a todos los cambios que se requieran implementar para futuras versiones

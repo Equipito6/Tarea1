@@ -1,0 +1,85 @@
+2024-09-02 11:25:06,555 INFO: Autenticaciï¿½n exitosa para el usuario: Diego
+2024-09-02 11:25:59,348 INFO: Tarea 'Comprar bebida' agregada correctamente.
+2024-09-02 11:26:13,832 INFO: Tarea 'Comprar bebida' eliminada correctamente.
+2024-09-02 11:26:31,564 INFO: Sesiï¿½n cerrada
+2024-09-02 11:26:37,907 WARNING: Fallo de autenticaciï¿½n para el usuario: Rodrigo
+2024-09-02 11:36:28,913 INFO: Usuario registrado: Rodrigo
+2024-09-02 11:36:36,370 INFO: Autenticacion exitosa para el usuario: Rodrigo
+2024-09-02 11:37:13,085 INFO: Tarea creada: Comprar bebida
+2024-09-02 11:38:06,676 INFO: Estado de la tarea ha cambiado: Comprar bebida a en progreso
+2024-09-02 11:41:01,151 INFO: Autenticacion exitosa para el usuario: Diego
+2024-09-02 11:41:50,921 INFO: Tarea creada: Diego Probaste el avance?
+2024-09-02 11:42:23,503 INFO: Autenticacion exitosa para el usuario: Rodrigo
+2024-09-02 11:42:35,185 WARNING: Fallo de autenticacion para el usuario: Juan
+2024-09-02 11:42:40,875 INFO: Autenticacion exitosa para el usuario: Diego
+2024-09-02 19:54:21,945 INFO: Autenticacion exitosa para el usuario: Diego
+2024-09-02 20:20:44,108 INFO: Estado de la tarea ha cambiado: Diego Probaste el avance? a completada
+2024-09-02 20:56:40,487 INFO: Autenticacion exitosa para el usuario: Diego
+2024-09-02 21:08:08,906 WARNING: Fallo de autenticacion para el usuario: diego
+2024-09-02 21:08:12,256 INFO: Autenticacion exitosa para el usuario: Diego
+2024-09-02 21:14:09,223 INFO: Autenticacion exitosa para el usuario: Diego
+2024-09-02 21:14:27,954 INFO: Estado de la tarea ha cambiado: Diego Probaste el avance? a completada
+2024-09-02 21:16:02,384 INFO: Tarea editada: Comprar Pan
+2024-09-02 21:20:39,995 INFO: Autenticacion exitosa para el usuario: Diego
+2024-09-02 21:20:56,949 INFO: Estado de la tarea ha cambiado: Diego Probaste el avance? a completada
+2024-09-02 21:21:42,985 INFO: Autenticacion exitosa para el usuario: Diego
+2024-09-02 21:21:51,022 INFO: Estado de la tarea ha cambiado: Diego Probaste el avance? a completada
+2024-09-02 21:22:41,638 INFO: Autenticacion exitosa para el usuario: Diego
+2024-09-02 21:25:26,216 INFO: Autenticacion exitosa para el usuario: Diego
+2024-09-02 21:26:06,268 INFO: Autenticacion exitosa para el usuario: Diego
+2024-09-02 21:27:41,916 INFO: Autenticacion exitosa para el usuario: Diego
+2024-09-02 21:28:16,559 INFO: Estado de la tarea ha cambiado: Comprar bebida a completada
+2024-09-02 21:29:34,897 WARNING: Seleccion de opciï¿½n no valida
+2024-09-02 21:33:43,296 INFO: Autenticacion exitosa para el usuario: Diego
+2024-09-02 21:34:38,591 INFO: Tarea creada: Codigo casi listo
+2024-09-02 21:35:46,396 INFO: Tarea editada: Codigo casi listo
+2024-09-02 21:37:15,362 INFO: Autenticacion exitosa para el usuario: Diego
+2024-09-03 12:25:07,091 INFO: Autenticacion exitosa para el usuario: Rodrigo
+2024-09-03 12:40:18,749 WARNING: Fallo de autenticacion para el usuario: Rodrigo 
+2024-09-03 12:40:23,226 INFO: Autenticacion exitosa para el usuario: Rodrigo
+2024-09-03 12:46:23,266 INFO: Autenticacion exitosa para el usuario: Rodrigo
+2024-09-05 17:45:14,808 INFO: Usuario registrado: Rodrigo
+2024-09-05 17:45:19,323 INFO: Usuario autenticado: Rodrigo
+2024-09-05 17:45:50,294 INFO: Tarea creada: Prueba1
+2024-09-05 17:46:23,790 INFO: Estado de la tarea cambiado: Prueba1 a en progreso
+2024-09-05 17:46:40,339 INFO: Estado de la tarea cambiado: Prueba1 a en progreso
+2024-09-05 17:55:43,417 INFO: Usuario autenticado: Rodrigo
+2024-09-05 17:56:13,556 INFO: Tarea creada: Prueba1
+2024-09-05 17:56:39,401 INFO: Estado de la tarea ha cambiado: Prueba1 a en progreso
+2024-09-05 17:57:18,709 INFO: Tarea creada: Prueba2
+2024-09-05 17:57:30,960 INFO: Estado de la tarea ha cambiado: Prueba2 a completada
+2024-09-05 17:58:28,647 INFO: Usuario autenticado: Rodrigo
+2024-09-05 17:58:48,772 INFO: Usuario registrado: Diego
+2024-09-05 17:58:52,579 INFO: Usuario autenticado: Diego
+2024-09-05 17:59:12,639 INFO: Tarea creada: Prueba3
+2024-09-05 17:59:28,287 INFO: Tarea editada: Prueba3
+2024-09-05 18:10:31,886 INFO: Usuario autenticado: Rodrigo
+2024-09-05 18:18:11,841 INFO: Usuario autenticado: Rodrigo
+2024-09-05 18:18:31,505 INFO: Tarea creada: Prueba?
+2024-09-05 18:19:14,120 INFO: Tarea creada: Prueba2
+2024-09-05 18:19:49,389 INFO: Usuario autenticado: Diego
+2024-09-05 18:20:08,108 INFO: Tarea creada: PROBANDO
+2024-09-05 18:27:10,134 INFO: Usuario autenticado: Rodrigo
+2024-09-05 18:27:36,829 INFO: Tarea creada: Prueba
+2024-09-05 18:28:00,505 INFO: Estado de la tarea ha cambiado: Prueba a completada
+2024-09-05 18:31:57,450 INFO: Usuario autenticado: Diego
+2024-09-05 18:36:00,669 INFO: Usuario autenticado: Diego
+2024-09-05 18:36:28,858 INFO: Tarea creada: Prueba2
+2024-09-05 18:36:49,862 INFO: Estado de la tarea ha cambiado: Prueba2 a en progreso
+2024-09-05 18:37:52,825 INFO: Estado de la tarea ha cambiado: Prueba2 a completada
+2024-09-05 18:38:41,412 INFO: Usuario autenticado: Rodrigo
+2024-09-05 18:47:29,482 INFO: Usuario autenticado: Rodrigo
+2024-09-05 18:48:16,321 INFO: Tarea creada: Prueba2
+2024-09-05 18:51:18,717 INFO: Usuario autenticado: Rodrigo
+2024-09-05 18:51:46,583 INFO: Tarea creada: 1
+2024-09-05 18:52:01,342 INFO: Tarea eliminada: 1
+2024-09-05 18:52:59,215 INFO: Usuario autenticado: Diego
+2024-09-05 18:53:15,868 WARNING: Intento de cambio de estado con índice inválido
+2024-09-05 18:54:42,865 INFO: Usuario autenticado: Diego
+2024-09-05 18:59:04,807 INFO: Usuario autenticado: Diego
+2024-09-05 18:59:53,205 INFO: Tarea creada: Prueba3
+2024-09-05 19:00:15,724 INFO: Estado de la tarea ha cambiado: Prueba3 a en progreso
+2024-09-05 19:00:39,243 INFO: Usuario autenticado: Rodrigo
+2024-09-05 19:01:10,124 INFO: Estado de la tarea ha cambiado: Prueba2 a en progreso
+2024-09-06 13:30:58,850 INFO: Usuario autenticado: Rodrigo
+2024-09-06 13:31:36,596 INFO: Tarea creada: Prueba3

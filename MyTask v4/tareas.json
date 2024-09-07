@@ -1,0 +1,49 @@
+{
+    "Rodrigo": {
+        "tareas": [
+            {
+                "titulo": "Prueba2",
+                "descripcion": "Prueba2",
+                "fecha_vencimiento": "2024-09-07",
+                "etiqueta": "trabajo",
+                "estado": "en progreso"
+            },
+            {
+                "titulo": "Prueba3",
+                "descripcion": "Estamos probando 3ra vez",
+                "fecha_vencimiento": "2024-09-07",
+                "etiqueta": "urgente",
+                "estado": "pendiente"
+            }
+        ],
+        "completadas": [
+            {
+                "titulo": "Prueba",
+                "descripcion": "prueba",
+                "fecha_vencimiento": "1234-56-78",
+                "etiqueta": "urgente",
+                "estado": "completada"
+            }
+        ]
+    },
+    "Diego": {
+        "tareas": [
+            {
+                "titulo": "Prueba3",
+                "descripcion": "Probando3",
+                "fecha_vencimiento": "2024-09-07",
+                "etiqueta": "urgente",
+                "estado": "en progreso"
+            }
+        ],
+        "completadas": [
+            {
+                "titulo": "Prueba2",
+                "descripcion": "prueba",
+                "fecha_vencimiento": "2024-09-07",
+                "etiqueta": "importante",
+                "estado": "completada"
+            }
+        ]
+    }
+}

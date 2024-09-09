@@ -1,4 +1,4 @@
-### Tarea 1
+### TAREA 1
 
 ### README
 - **Descripción**: La aplicación MyTask es una herramienta de gestión de tareas que permite a los usuarios organizar y controlar sus actividades personales. Los usuarios pueden iniciar sesión o registrarse, crear tareas, editarlas, eliminarlas, cambiar su estado, y realizar búsquedas. Además, cuenta con opciones para ver detalles específicos de cada tarea, visualizar tareas completadas y registrar todas las acciones en un archivo de auditoría (log). Las tareas y los usuarios se almacenan en archivos JSON, permitiendo persistencia de datos entre sesiones.

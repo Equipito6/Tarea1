@@ -27,7 +27,7 @@ Diego Morales: diegomoralesar@usm.cl
 ### SECCIÓN ENTREGABLE:
 
 - **¿Cómo especificarías mejor el requerimiento?**
-- - Requerimiento: El sistema debe permitir a los usuarios autenticarse, crear, consultar, editar y eliminar sus tareas, asegurando que cada usuario solo pueda ver y manipular sus propias tareas.
+  - Requerimiento: El sistema debe permitir a los usuarios autenticarse, crear, consultar, editar y eliminar sus tareas, asegurando que cada usuario solo pueda ver y manipular sus propias tareas.
   - El requerimiento debe incluir:
     Funcionalidad de autenticación: Permite iniciar sesión o registrarse.
     Gestión de tareas: Crear, consultar, editar, eliminar y cambiar el estado de las tareas.

@@ -17,13 +17,24 @@ def guardar_usuarios():
 
 def registrar():
     print("--- Registro de nuevo usuario ---")
-    usuario = input("Nombre de usuario: ")
-    if usuario in usuarios:
-        print("El nombre de usuario ya existe.")
-        logging.warning(f"Intento de registro con nombre de usuario ya existente: {usuario}")
-        return False
+    while True:
+        usuario = input("Nombre de usuario: ").strip()
+        if not usuario:
+            print("El nombre de usuario no puede estar vacío. Inténtalo de nuevo.")
+            continue
+        if usuario in usuarios:
+            print("El nombre de usuario ya existe.")
+            logging.warning(f"Intento de registro con nombre de usuario ya existente: {usuario}")
+            return False
+        break
 
-    contraseña = input("Contraseña: ")
+    while True:
+        contraseña = input("Contraseña: ").strip()
+        if not contraseña:
+            print("La contraseña no puede estar vacía. Inténtalo de nuevo.")
+            continue
+        break
+
     hash_contraseña = hashlib.sha256(contraseña.encode()).hexdigest()
     usuarios[usuario] = hash_contraseña
     guardar_usuarios()

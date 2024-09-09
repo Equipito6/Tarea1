@@ -1,5 +1,6 @@
 ### Tarea 1
 
+### README
 - **Descripción**: La aplicación MyTask es una herramienta de gestión de tareas que permite a los usuarios organizar y controlar sus actividades personales. Los usuarios pueden iniciar sesión o registrarse, crear tareas, editarlas, eliminarlas, cambiar su estado, y realizar búsquedas. Además, cuenta con opciones para ver detalles específicos de cada tarea, visualizar tareas completadas y registrar todas las acciones en un archivo de auditoría (log). Las tareas y los usuarios se almacenan en archivos JSON, permitiendo persistencia de datos entre sesiones.
 - **Instalación**: Para instalar la aplicación MyTask, siga los siguientes pasos:
 Descargue o clone el repositorio desde GitHub.
@@ -22,3 +23,11 @@ Todas las interacciones se realizan mediante la selección de opciones utilizand
 Rodrigo Vera: rodrigo.verav@usm.cl
 Diego Morales: diegomoralesar@usm.cl
 
+
+### SECCIÓN ENTREGABLE:
+
+-**¿Cómo especificarías mejor el requerimiento?**
+-**¿Cómo asegurarías que el programa cumpla el requerimiento?**
+-**Organización, explicar cómo se organizó el proyecto y el flujo de trabajo de éste.**
+-**Incluir evidencia de flujo de trabajo y configuraciones realizadas (Imágenes de pantalla).**
+-**Problemas encontrados y como se solucionaron.**

@@ -26,8 +26,8 @@ Diego Morales: diegomoralesar@usm.cl
 
 ### SECCIÓN ENTREGABLE:
 
--**¿Cómo especificarías mejor el requerimiento?**
--**¿Cómo asegurarías que el programa cumpla el requerimiento?**
--**Organización, explicar cómo se organizó el proyecto y el flujo de trabajo de éste.**
--**Incluir evidencia de flujo de trabajo y configuraciones realizadas (Imágenes de pantalla).**
--**Problemas encontrados y como se solucionaron.**
+- **¿Cómo especificarías mejor el requerimiento?**
+- **¿Cómo asegurarías que el programa cumpla el requerimiento?**
+- **Organización, explicar cómo se organizó el proyecto y el flujo de trabajo de éste.**
+- **Incluir evidencia de flujo de trabajo y configuraciones realizadas (Imágenes de pantalla).**
+- **Problemas encontrados y como se solucionaron.**

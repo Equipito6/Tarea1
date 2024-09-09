@@ -29,9 +29,9 @@ Diego Morales: diegomoralesar@usm.cl
 - **¿Cómo especificarías mejor el requerimiento?**
   - Requerimiento: El sistema debe permitir a los usuarios autenticarse, crear, consultar, editar y eliminar sus tareas, asegurando que cada usuario solo pueda ver y manipular sus propias tareas.
   - El requerimiento debe incluir:
-    Funcionalidad de autenticación: Permite iniciar sesión o registrarse.
-    Gestión de tareas: Crear, consultar, editar, eliminar y cambiar el estado de las tareas.
-    Privacidad: Las tareas deben estar asociadas a un usuario, y solo el usuario autenticado debe tener acceso a ellas.
+    - Funcionalidad de autenticación: Permite iniciar sesión o registrarse.
+    - Gestión de tareas: Crear, consultar, editar, eliminar y cambiar el estado de las tareas.
+    - Privacidad: Las tareas deben estar asociadas a un usuario, y solo el usuario autenticado debe tener acceso a ellas.
 - **¿Cómo asegurarías que el programa cumpla el requerimiento?**
 - **Organización, explicar cómo se organizó el proyecto y el flujo de trabajo de éste.**
 - **Incluir evidencia de flujo de trabajo y configuraciones realizadas (Imágenes de pantalla).**

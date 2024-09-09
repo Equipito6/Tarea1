@@ -23,22 +23,5 @@ Todas las interacciones se realizan mediante la selección de opciones utilizand
 Rodrigo Vera: rodrigo.verav@usm.cl
 Diego Morales: diegomoralesar@usm.cl
 
-
-### SECCIÓN ENTREGABLE:
-
-- **¿Cómo especificarías mejor el requerimiento?**
-  - Requerimiento: El sistema debe permitir a los usuarios autenticarse, crear, consultar, editar y eliminar sus tareas, asegurando que cada usuario solo pueda ver y manipular sus propias tareas.
-  - El requerimiento debe incluir:
-    - Funcionalidad de autenticación: Permite iniciar sesión o registrarse.
-    - Gestión de tareas: Crear, consultar, editar, eliminar y cambiar el estado de las tareas.
-    - Privacidad: Las tareas deben estar asociadas a un usuario, y solo el usuario autenticado debe tener acceso a ellas.
-- **¿Cómo asegurarías que el programa cumpla el requerimiento?**
-- **Organización, explicar cómo se organizó el proyecto y el flujo de trabajo de éste.**
-  - La organización del proyecto siguió una estructura clara y colaborativa:
-  - Organización por módulos: El proyecto se dividió en tres módulos, cada uno con responsabilidades específicas: autenticación de usuarios (usuarios.py), gestión de tareas (tareas.py), e interfaz principal (main.py). Cada módulo se desarrolló de forma independiente y luego se integró.
-  - Colaboración en equipo: Utilizamos GitHub para mantener el código, lo que permitió la colaboración fluida entre los miembros del equipo. Ambos compañeros trabajamos en dos ramas de forma independiente y, luego de que cada uno verificara el trabajo del otro, realizábamos el merge a la rama principal mediante pull requests y commits frecuentes. Esto aseguró un flujo de trabajo organizado y controlado.
-  - Flujo de trabajo ágil:Utilizamos WhatsApp, Discord y Slack para mantener la comunicación en tiempo real y actualizaciones del progreso.
-- **Incluir evidencia de flujo de trabajo y configuraciones realizadas (Imágenes de pantalla).**
-  - Revisar archivo de imagenes dentro del repositorio. 
-- **Problemas encontrados y como se solucionaron.**
-  -  El principal problema que enfrentamos fue la manera de manejar los datos. Inicialmente, teníamos pensado utilizar MongoDB, pero con el avance del proyecto, nos dimos cuenta de que añadir una base de datos compleja como MongoDB era innecesario para los requisitos del proyecto. Finalmente, decidimos simplificar el proceso utilizando archivos .json para almacenar los datos de las tareas y usuarios, lo que facilitó la implementación y evitó complicaciones adicionales.
+**ENTREGABLE**
+  - Revisar archivo MyTask-Equipo_6.pdf dentro del repositorio.
